@@ -5,6 +5,8 @@
 
 ## Hello! And welcome to my profile! my name is Everton, but you can call me Henrique
 
+
+
 ![gif to animate people who visit my profile](https://media2.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47qc3wqiwi0pdbksa2to45nii92pprl9z2ab8f0c2l&rid=giphy.gif&ct=g)
 
 - I'm a software Developer at <a target="_blank" href="https://codifytech.com.br/">CodifyTech</a>
@@ -12,7 +14,7 @@
 
 I am always looking to learn new skills and techniques to stay current and offer high quality solutions to my clients. In addition, I am a proactive person, self-taught and with good analysis and problem solving skills.
 
-you can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a>
+You can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a>
 
 ![Everton Status](https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent)
 

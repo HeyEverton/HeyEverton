@@ -7,7 +7,7 @@
 
 
 
-![gif to animate people who visit my profile](https://media2.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47qc3wqiwi0pdbksa2to45nii92pprl9z2ab8f0c2l&rid=giphy.gif&ct=g)
+<!--![gif to animate people who visit my profile](https://media2.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47qc3wqiwi0pdbksa2to45nii92pprl9z2ab8f0c2l&rid=giphy.gif&ct=g)-->
 
 - I'm a software Developer at <a target="_blank" href="https://codifytech.com.br/">CodifyTech</a>
 - I'm a technology lover and enthusiast.

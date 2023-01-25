@@ -14,6 +14,5 @@ I am always looking to learn new skills and techniques to stay current and offer
 
 ![Everton Status](https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent)
 
-As linguagens que mais programei forem:
-
+As linguagens que mais me odeiam:
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=heyeverton&layout=compact&theme=transparent)

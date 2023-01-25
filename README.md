@@ -12,8 +12,8 @@
 
 I am always looking to learn new skills and techniques to stay current and offer high quality solutions to my clients. In addition, I am a proactive person, self-taught and with good analysis and problem solving skills.
 
-![Everton Status](https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true)
+![Everton Status](https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent)
 
 As linguagens que mais programei forem:
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=heyeverton&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=heyeverton&layout=compact&theme=transparent)

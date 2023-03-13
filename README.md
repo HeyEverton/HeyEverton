@@ -34,10 +34,13 @@ You can have more details about me and my portfolio <a target="_blank" href="htt
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-wordmark.svg" alt="Python" height="50" />   -->
 </div>
 </tr></table>  
 
+<!-- <div align="end"> -->
 ![Everton Status](https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent)
+<!-- </div> -->
 
 The languages that hate me the most:
 

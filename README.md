@@ -24,7 +24,7 @@ You can have more details about me and my portfolio <a target="_blank" href="htt
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vue-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original.svg" alt="Electron" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -34,11 +34,7 @@ You can have more details about me and my portfolio <a target="_blank" href="htt
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 </div>
-
-</td><td valign="top" width="33%">
-
-
-</td></tr></table>  
+</tr></table>  
 
 ![Everton Status](https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent)
 

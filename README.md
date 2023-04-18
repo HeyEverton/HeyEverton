@@ -9,6 +9,7 @@
 
 - I'm a software Developer at <a target="_blank" href="https://codifytech.com.br/">CodifyTech</a>
 - I'm a technology lover and enthusiast.
+- I'm a coffe lover btw
 
 I am always looking to learn new skills and techniques to stay current and offer high quality solutions to my clients. In addition, I am a proactive person, self-taught and with good analysis and problem solving skills.
 

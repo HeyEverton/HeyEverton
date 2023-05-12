@@ -13,7 +13,7 @@
 
 I am always looking to learn new skills and techniques to stay current and offer high quality solutions to my clients. In addition, I am a proactive person, self-taught and with good analysis and problem solving skills.
 
-You can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a>
+<!-- You can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a> -->
 
 <table><tr><td valign="top" width="33%">
 

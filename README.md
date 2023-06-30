@@ -12,7 +12,10 @@
 - I'm a coffe lover btw
 
 I am always looking to learn new skills and techniques to stay current and offer high quality solutions to my clients. In addition, I am a proactive person, self-taught and with good analysis and problem solving skills.
-
+<p align="center">
+  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyeverton&theme=transparent" alt="st3llaris" />
+  <br/><br/>
+</p>
 <!-- You can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a> -->
 
 <table><tr><td valign="top" width="33%">

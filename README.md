@@ -17,13 +17,16 @@
 - I'm a coffe lover btw
 
 I am always looking to learn new skills and techniques to stay current and offer high quality solutions to my clients. In addition, I am a proactive person, self-taught and with good analysis and problem solving skills.
-<p align="center">
-  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyeverton&theme=transparent" alt="st3llaris" />
-  <br/><br/>
-</p>
-<!-- You can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a> -->
 
-<table><tr><td valign="top" width="33%">
+<div align="center">
+<h2>
+  My Skills
+</h2>
+  
+</div>
+<table align="center">
+  <tr>
+    <td valign="top" width="33%">
 
 
 
@@ -45,12 +48,36 @@ I am always looking to learn new skills and techniques to stay current and offer
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-wordmark.svg" alt="Python" height="50" />   -->
 </div>
-</tr></table>  
+</tr>
+</table>  
 
-<!-- <div align="end"> -->
-![Everton Status](https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent)
-<!-- </div> -->
 
-The languages that hate me the most:
+<div align="center">
+  <h3>
+    My Github Stats
+  </h3>
+</div>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=heyeverton&layout=compact&theme=transparent)
+
+<p align="center">
+  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyeverton&theme=transparent" alt="st3llaris" />
+  <br/><br/>
+</p>
+<!-- You can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a> -->
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent"/>
+</div>
+
+<div align="center">
+  <h3>
+    The languages that hate me the most:
+    
+  </h3>
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyeverton&layout=compact&theme=transparent"/> 
+
+</div>
+

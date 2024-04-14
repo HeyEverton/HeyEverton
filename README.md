@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://media2.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47qc3wqiwi0pdbksa2to45nii92pprl9z2ab8f0c2l&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk3em01ejdxejNpbGttMXlxNzBoeXhuNzJhNTZyem10c2x0eDltMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2YWwvuPQYndJTxGo/giphy.gif"  style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Everton, literally a developer.</div>  
   
@@ -9,10 +8,10 @@
 -  I’m currently working on [CodifyTech](https://codifytech.com.br)  
   
 
--  Learning Python, Go and C#  
+-  Learning Python, Go, C# and Acoustic Guitar 
   
 
-- Ask me about anything related to PHP, i'll probably know  
+- Ask me about anything related to PHP, maybe i'll know  
   
 
 - Fun fact: I can do a backflip  
@@ -99,7 +98,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=heyeverton&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=heyeverton&&style=flat-square&color=6e419b" align="center" />
 </div>  
   
 
@@ -108,5 +107,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

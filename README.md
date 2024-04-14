@@ -1,83 +1,112 @@
-<div align="center" style="display:flex;">
-  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/everton-henrique-085739251/)
-  
-[![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://pt.stackoverflow.com/users/293916/everton)
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:everton.henriqueer@gmail.com)](mailto:everton.henriqueer@gmail.com)  
-</div>
-
-
-## Hello! And welcome to my profile! my name is Everton, but you can call me Henrique
-
-<!--![gif to animate people who visit my profile](https://media2.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47qc3wqiwi0pdbksa2to45nii92pprl9z2ab8f0c2l&rid=giphy.gif&ct=g)-->
-
-- I'm a software Developer at <a target="_blank" href="https://codifytech.com.br/">CodifyTech</a>
-- I'm a technology lover and enthusiast.
-- I'm a coffe lover btw
-
-I am always looking to learn new skills and techniques to stay current and offer high quality solutions to my clients. In addition, I am a proactive person, self-taught and with good analysis and problem solving skills.
-
 <div align="center">
-<h2>
-  My Skills
-</h2>
+<img src="https://media2.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif?cid=ecf05e47qc3wqiwi0pdbksa2to45nii92pprl9z2ab8f0c2l&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
+</div>  
   
-</div>
-<table align="center">
-  <tr>
-    <td valign="top" width="33%">
+
+### <div align="center">I'm Everton, literally a developer.</div>  
+  
+
+-  I’m currently working on [CodifyTech](https://codifytech.com.br)  
+  
+
+-  Learning Python, Go and C#  
+  
+
+- Ask me about anything related to PHP, i'll probably know  
+  
+
+- Fun fact: I can do a backflip  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 
-### Front-end  
+### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vue-js-original.svg" alt="VueJs" height="50" />   -->
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
 
-### Back-end  
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-wordmark.svg" alt="Python" height="50" />   -->
-</div>
-</tr>
-</table>  
 
-
-<div align="center">
-  <h3>
-    My Github Stats
-  </h3>
+### Backend  
+<div align="center">  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
 
-
-<p align="center">
-  <img style="display: inline;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyeverton&theme=transparent" alt="st3llaris" />
-  <br/><br/>
-</p>
-<!-- You can have more details about me and my portfolio <a target="_blank" href="https://portfolio-everton-v1.vercel.app/">here</a> -->
+</td><td valign="top" width="33%">
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyeverton&show_icons=true&theme=transparent"/>
+
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-<div align="center">
-  <h3>
-    The languages that hate me the most:
-    
-  </h3>
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyeverton&layout=compact&theme=transparent"/> 
+</td></tr></table>  
 
-</div>
+<br/>  
 
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/HeyEverton" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/heyeverton" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/everton-henrique-085739251" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/everton" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/heyeverton" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+
+
+<br/>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=li7r7os3v5kyslf5anecnu8qu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=6e419b&bar_color_cover=false" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=heyeverton&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

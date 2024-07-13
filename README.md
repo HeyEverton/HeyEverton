@@ -65,26 +65,6 @@
 </td></tr></table>  
 
 <br/>  
-
-<!--
-## Connect with me  
-<div align="center">
-<a href="https://github.com/HeyEverton" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/heyeverton" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/everton-henrique-085739251" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/everton" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/heyeverton" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  --!>
   
 
 <br/>  
@@ -93,7 +73,10 @@
 
 
 <br/>  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=li7r7os3v5kyslf5anecnu8qu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=6e419b&bar_color_cover=false" /></div>  
+<div align="center">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=li7r7os3v5kyslf5anecnu8qu&cover_image=true&theme=default&show_offline=true&background_color=2d203c&interchange=false&bar_color=924eb1&bar_color_cover=false" />
+
+</div>  
 
 <br/>  
 

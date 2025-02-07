@@ -80,9 +80,9 @@
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=heyeverton&&style=flat-square&color=6e419b" align="center" />
-</div>  
+</div>  -->
   
 
 <br/>  

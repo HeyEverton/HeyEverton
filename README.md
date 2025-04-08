@@ -73,10 +73,12 @@
 
 
 <br/>  
+<!-- 
 <div align="center">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=li7r7os3v5kyslf5anecnu8qu&cover_image=true&theme=default&show_offline=true&background_color=2d203c&interchange=false&bar_color=924eb1&bar_color_cover=false" />
-
 </div>  
+-->
+
 
 <br/>  
 
